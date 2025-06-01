@@ -1,0 +1,3 @@
+# Teste do endpoint de recomendações
+GET http://localhost:3000/api/recommendations/1
+Content-Type: application/json
