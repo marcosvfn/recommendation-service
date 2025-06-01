@@ -222,7 +222,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For questions or feedback, please contact the project author at [your-email@example.com].
