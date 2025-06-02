@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Recommendation Service API** is a backend application designed to provide personalized product recommendations for users in an e-commerce-like scenario. It combines **collaborative filtering** (based on user ratings) and **content-based filtering** (based on user preferences and product tags/categories) to generate tailored recommendations. The project is built with modern web technologies, focusing on clean code, error handling, and unit testing, making it a robust example for a developer portfolio.
+The **Recommendation Service API** is a backend application designed to provide personalized product recommendations for users in an e-commerce-like scenario. It combines **collaborative filtering** (based on user ratings) and **content-based filtering** (based on user preferences and product tags/categories) to generate tailored recommendations.
 
 ## Features
 
